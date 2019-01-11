@@ -1,2 +1,0 @@
-# gcj
-Google Code Jam
